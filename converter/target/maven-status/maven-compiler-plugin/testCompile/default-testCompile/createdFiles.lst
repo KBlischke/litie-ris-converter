@@ -1,0 +1,8 @@
+TestInputHandler.class
+TestValidator.class
+TestParser.class
+TestWriter.class
+TestUnifier.class
+TestAssembler.class
+TestTranslator.class
+TestReader.class

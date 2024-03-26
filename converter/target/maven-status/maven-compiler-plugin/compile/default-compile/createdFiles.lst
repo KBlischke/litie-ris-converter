@@ -1,0 +1,10 @@
+modules\Validator.class
+Main.class
+modules\Translator.class
+modules\Writer.class
+modules\Assembler.class
+modules\Parser.class
+modules\Unifier.class
+modules\Reader.class
+abstractions\Entry.class
+modules\InputHandler.class
