@@ -1,0 +1,338 @@
+000:23811
+030:a
+040:2001
+050:d
+100:Content syndication : Konzept und erste praktische Erfahrungen
+200:Hess, T.|Anding, M.
+411:Tagungen der Deutschen Gesellschaft für Informationswissenschaft und Informationspraxis; 4
+510:Information Resources Management
+700:Information Research & Content Management: Orientierung, Ordnung und Organisation im Wissensmarkt; 23. DGI-Online-Tagung der DGI und 53. Jahrestagung der Deutschen Gesellschaft für Informationswissenschaft und Informationspraxis e.V. DGI, Frankfurt am Main, 8.-10.5.2001. Proceedings. Hrsg.: R. Schmidt
+810:S.41-53
+860:Frankfurt am Main : DGI
+870:Um E-Commerce-Angebote attraktiv zu gestalten, reichen Informationen zu den eigenen Produkten und Dienstleistungen nicht aus. Erforderlich ist vielmehr die Integration von Inhalten, die die eigenen sinnvoll ergänzen, aber in der Regel im eigenen Unternehmen nicht verfügbar sind. Ein ähnliches Problem stellt sich im Bezug auf Intranets. Für die Nutzer eines Intranets ist ein Angebot wenig interessant, dass sich lediglich auf hausintern erstellte Informationen beschränkt. Attraktiv ist vielmehr, wenn in ein Intranet auch weiterführende Inhalte zu Kunden, Lieferanten, Branche oder Region enthält. Vor diesem Hintergrund gewinnt Content Syndication an Bedeutung. Content Syndication beschreibt die an kommerziellen Zielen orientierte Bereitstellung von Informationen an Geschäftskunden, so z. B. für E-Commerce-Angebote oder Intranets. Ziel des Beitrags ist es, einen Überblick über Konzept und erste Umsetzungserfahrungen mit Content Syndication zu geben. Dazu ist zwischen einer ökonomischen und einer technischen Perspektive zu unterscheiden. Als Einstieg in die ökonomische Perspektive wird das Fallbeispiel der Tanto AG dargestellt, einem Syndicator aus Hamburg. Tanto (www.tanto.de) stellt über einen elektronisch verfügbaren Katalog Informationen aus den verschiedensten Gebieten online zur Verfügung. Der Kunde kann die Inhalte einzeln bezahlen oder aber ein Abonnement eingehen. Auf Basis dieses Beispiels lassen sich die generellen Gestaltungsparameter für das Geschäftsmodell eines Syndicator aufzeigen: Zielsetzung des Anbieters, Einordnung in sein sonstiges Leistungsspektrum, abgedeckte Themenfelder, Exklusivität der Inhalte sowie Abstützung auf Markennamen (von Inhaltelieferanten). Die nähere Analyse dieser Parameter zeigt eine Reihe von Besonderheiten. So verfolgen keinesfalls alle Anbieter das Ziel, mit der Übertragung von Inhalten unmittelbar Erlöse zu generieren. Vielmehr erhalten sie häufig als Gegenleistung die Möglichkeit, auf den WWW-Seiten des Nachfragers kostenfrei Werbung zu platzieren, den eigenen Markennamen in den Inhalten deutlich zu verankern oder aber Interessenten (z. B. durch Kurztexte und integrierte Links) bequem auf die eigenen WWW-Angebote zu locken. Als Beispiel für die technische Ebene wird das Standardisierungsprojekt in der Fachverlagsgruppe BertelsmannSpringer präsentiert Ziel von BertelsmannSpringer ist es, die in den Fachverlagen entwickelten Inhalte über die hauseigenen Online-Anbieter (wie z. B. das Baunetz, www.baunetz.de) mehrfach zu verwerten. Zu diesem Zweck wird ein XML-basieter Standard für den Inhalteaustausch zwischen Verlagen und Online-Anbietern gerade schrittweise eingeführt. Ausgehend von diesem Fall lassen sich die wichtigsten Fragen einer technischen Unterstützung des Content Syndication aufzeigen. Dazu zählt neben der Einführung von Standards (wie z. B. dem News Industry Text Format oder der Information and Content Exchange Specification) auch die systemtechnische Unterstützung einzelner Aufgaben bei Anbieter und Nachfrager. Ein besonderer Fokus ist dabei auf die (halbautomatische) Klassifikation von Inhalten sowie die Bereitstellung für den Nachfrager (im Push- oder Pull-Modus) zu richten. Auf Basis dieser Überlegungen wird ein erstes Zwischenfazit zu den Möglichkeiten und Grenzen von Content Syndication gezogen. Ergänzend wird ein kurzer Ausblick auf Application Syndication gegeben. Application Syndication sieht vor, dem nachfragenden Unternehmen das Recht einzuräumen, in sein eigenes WWW-Angebot bzw. sein Intranet ein Anwendungssystem eines entsprechenden Anbieters einzubinden. Es ist daher als Weiterentwicklung von Content Syndication zu betrachten, befindet sich aber noch ganz überwiegend in der Erprobung
+9ZC:15.12.1996 11:05:33
+9ZE:12. 5.2001 20:01:59
+&&&
+
+000:18767
+030:a
+040:1997
+050:e
+100:Concepts in end-user training : how to convert end users into effective searchers
+200:Adams, V.M.
+510:Informationsdienstleistungen|Informationsmittel|Suchtaktik
+700:Searcher. 5(1997) no.5, S.8-20
+870:Provides guidelines for information professionals running end user search programmes. Covers: the reference interview, evaluation of information sources (purpose, authprity, scope and proposed audience), user aids giving information on access, electronic database procedures, standards, electronic search strategies (logical connectors, proximity connections, limiting searches), and the role of the information centre in supporting end users
+9ZC:19. 2.1997 12:36:07
+&&&
+
+000:22859
+030:a
+040:2000
+050:e
+100:What is wrong with obsolescence?
+200:Alvarez, P.|Escalona, I.|Pulgarin, A.
+510:Informetrie
+520:Physik
+700:Journal of the American Society for Information Science. 51(2000) no.9, S.812-815
+870:The growth of scientific output in recent years has meant that fewer libraries are able to offer the entire range of journals, with the others being forced to make a selection. The objective of the present work is to describe criteria to regulate the selection of theses journals to provide the researcher with the information that is most being used in research. One form of quantifying this information is by way of the citations that papers receive over a period of time following their publication. Obsolescence, expressed in terms of an annual aging factor, does not reflect the real behaviour of most papers. An alternative is the use of 'topicality', considered as a latent variable, with the Rasch model as the measuring instrument. We considered 45 physics journals, and found the results of applying the Rasch model to be more satisfactory than those obtained with the annual aging factor
+9ZC:17. 2.1997 18:25:04
+9ZE:8. 7.2000 18:29:03
+&&&
+
+000:36456
+030:a
+040:2011
+050:e
+100:Information search and retrieval in microblogs
+200:Efron, M.
+411:Advances in information science
+700:Journal of the American Society for Information Science and Technology. 62(2011) no.6, S.996-1008
+870:Modern information retrieval (IR) has come to terms with numerous new media in efforts to help people find information in increasingly diverse settings. Among these new media are so-called microblogs. A microblog is a stream of text that is written by an author over time. It comprises many very brief updates that are presented to the microblog's readers in reverse-chronological order. Today, the service called Twitter is the most popular microblogging platform. Although microblogging is increasingly popular, methods for organizing and providing access to microblog data are still new. This review offers an introduction to the problems that face researchers and developers of IR systems in microblog settings. After an overview of microblogs and the behavior surrounding them, the review describes established problems in microblog retrieval, such as entity search and sentiment analysis, and modeling abstractions, such as authority and quality. The review also treats user-created metadata that often appear in microblogs. Because the problem of microblog search is so new, the review concludes with a discussion of particularly pressing research issues yet to be studied in the field.
+9ZC:17. 2.1997 18:25:04
+9ZE:24.12.2015 15:51:56
+&&&
+
+000:07452
+030:a
+040:1993
+050:e
+100:Principles and strategies for designing effective computer-mediated instruction
+200:Small, R.V.
+700:Proceedings of the Clinic on Library Applications of Data Processing: held April 5-7 1992 at University of Illinois at Urbana-Champaign. Ed. by L.C. Smith and P.W. Dalrymple
+810:S.116-130
+860:Illinois : University of Illinois at Urbana-Champaign, Graduate School of Library and Information Science
+870:Information professionals are increasingly asked to assist instructional designers or to be designers of computer-mediated information systems including the online instruction that facilitates their independent, skilful use by information consumers. Provides some guidelines for information professionals asked to create effective computer-mediated instruction. Begins with a discussion of a number of issues to consider both before and during the design process, describes a simple yet powerful instructional desing model that forms a framework for making design decisions, and presents a wide range of design strategies for implementation
+&&&
+
+000:36813
+030:a
+040:2011
+050:e
+100:Interactions between elementary structures in universes of knowledge
+200:Smiraglia, R.P.|Heuvel, C. van den|Dousa, T.M.
+540:UDC
+700:Classification and ontology: formal approaches and access to knowledge: proceedings of the International UDC Seminar, 19-20 September 2011, The Hague, The Netherlands. Eds.: A. Slavic u. E. Civallero
+810:S.25-40
+860:Würzburg : Ergon Verlag
+870:Contrasts in 20th century classification theory relate to a transition from a universe of "knowledge" system towards one of "concepts' Initiatives to develop a Simple Knowledge Organization Systems (SKOS) standard based on classification schemes and taxonomies within the framework of the Semantic Web (SW) are attempts to bridge the gap. Current knowledge organization systems (KOS) seem to reinforce "syntactics" at the expense of semantics. We claim that all structure is syntactic but knowledge structures need to have a semantic component as well. Therefore we consider classifications as artificial languages. The Universal Decimal Classification (UDC) constitutes a natural language-independent notation system that allows for mediating between concepts and knowledge systems. We discuss an elementary theory of knowledge organization based on the structure of knowledge rather than on the content of documents. Semantics becomes not a matter of synonymous concepts, but rather of coordinating knowledge structures. The interactions between these systems represent interactions between different universes of knowledge or concepts.
+9ZE:20.11.2011 18:35:45
+&&&
+
+000:21140
+030:a
+040:1999
+050:pl
+100:Jezyk hasel przedmiotowych KABA po szesciu latach istnienia
+200:Glowacka, T.
+510:Verbale Doksprachen für präkombinierte Einträge
+540:KABA
+700:Zagadnienia informacji naukowej. 1999, no.2, S.40-52
+880:Übers. d. Titels: KABA subject headings system: 6 years of its development
+9ZC:2. 4.1996 20:25:52
+9ZE:27. 3.2002 15:15:17
+&&&
+
+000:24154
+030:a
+040:1999
+050:e
+100:Redefining order in the German library : 1775-1825
+200:Garrett, J.
+510:Geschichte der Klassifikationssysteme
+550:D
+700:Eighteenth-century studies. 33(1999) no.1, S.103-123
+880:Vgl. auch unter: http://muse.jhu.edu/journals/eighteenth-century_studies/v033/33.1garrett.html
+9ZE:4.11.2001 18:39:50
+&&&
+
+000:13390
+030:a
+040:1990
+050:d
+100:Fakteninformationssysteme
+200:Mie, F.
+411:DGD-Schriftenreihe; Bd.9
+700:Grundlagen der praktischen Information und Dokumentation: ein Handbuch zur Einführung in die fachliche Informationsarbeit. 3. Aufl. Hrsg.: M. Buder u.a. Bd.1
+810:S.547-558
+860:München : Saur
+&&&
+
+000:27934
+030:a
+040:2004
+050:d
+100:Gedruckte Informations- und Suchdienste
+200:Ockenfeld, M.
+510:Informationsmittel
+700:Grundlagen der praktischen Information und Dokumentation. 5., völlig neu gefaßte Ausgabe. 2 Bde. Hrsg. von R. Kuhlen, Th. Seeger u. D. Strauch. Begründet von Klaus Laisiepen, Ernst Lutterbeck, Karl-Heinrich Meyer-Uhlenried. Bd.1: Handbuch zur Einführung in die Informationswissenschaft und -praxis
+810:S.379-387
+860:München : Saur
+870:Informations- und Suchdienste erfüllen angesichts der inflationären Zunahme von Veröffentlichungen mehr denn je wichtige Funktionen bei der Vermittlung und Gewinnung von Wissen. Wesentlich sind die folgenden drei, die bereits sehr früh Triebfedern für die Erarbeitung von Dokumentationsdiensten waren: 1. Informationsdienste sollen zu einem Thema, einer Fragestellung, einem Sachverhalt eine umfassende und gezielte, ballastarme Information ermöglichen. Sie leisten eine thematische Zusammenschau von einzelnen Angaben, Meinungen, Erfahrungen, Ergebnissen usw., die aus einer großen Anzahl verstreut vorhandener Quellen zusammengetragen werden. Dadurch können sie jeden, der auf der Suche nach Informationen ist, gleich gut bedienen, unabhängig davon, ob er einfachen Zugang zu einer großen Bibliothek hat oder nicht. Sie sind so auch ein Mittel, um Informationsprivilegien auszugleichen, weil sie den Zugang zum gesamten öffentlich verfügbaren Wissen praktisch eröffnen. 2. Informationsdienste ermöglichen Personen, die routinemäßig ausgewählte Informationsquellen benutzen, den Zugang zu weiteren Informationen, an denen sie interessiert sein könnten und machen sie auf Quellen aufmerksam, an die sie bisher nicht gedacht haben. Sie leisten einen Beitrag zum Abbau von Informationsbarrieren, indem sie auch Informationsquellen, die in weniger geläufigen Sprachen abgefasst sind, auswerten und die wesentlichen Aussagen in einer vertrauten Sprache wiedergeben. Sie haben also eine Orientierungsfunktion. 3. Schließlich besitzen Informationsdienste eine Archivfunktion, indem sie den Kenntnisstand zu einem Thema oder Sachverhalt zu einem bestimmten Zeitpunkt festhalten. Solche Dokumentationen werden in den kommenden Jahren an Bedeutung eher zu- als abnehmen, denn die Zunahme an elektronisch ausgetauschten Daten und die Schnelligkeit, mit der Wissen umgeschlagen wird, machen es in hohem Maße erforderlich, den Stand der Dinge zu einem gegebenen Zeitpunkt regelmäßig dingfest zu machen und in einer nicht veränderbaren Form sozusagen als historischen Beleg zu speichern. Dieses Kapitel ist gedruckten Diensten gewidmet. Ein gedruckter Dienst ist jedoch im Zeitalter des Crossmedia Publishing immer nur ein ausgewähltes Produkt aus einer Vielzahl von möglichen Informations- und Suchdiensten, die alle aus ein und demselben Informationsspeicher herstellt werden könnten. Sie haben zwar aufgrund ihrer Eigenschaft, in einem festen Layout gedruckt und in papiergebundener Form vorzuliegen, ganz bestimmte Vor- und Nachteile gegenüber anderen, die als Diskettendienst, als CD-ROM, als online abfragbare Informationsbank oder als Verzeichnis von Dokumenten im Internet angeboten werden, doch unterscheiden sie sich von deren Produktion im Grunde oft nur unwesentlich.
+9ZE:5. 4.2013 10:20:15
+&&&
+
+000:18215
+030:a
+040:1997
+050:d
+100:¬Die spezifischen Probleme einer kleinen Bibliothek, die Internet anbieten will
+200:Gusik, A.
+411:BuB special
+510:Internet
+700:Internet: Grundlagen, Technik, Anwendungen. Hrsg.: M. Rothe u.a
+810:S.63-65
+860:Bad Honnef : Bock+Herchen
+9ZC:28. 7.1997 19:07:50
+9ZE:12. 1.1998 19:43:10
+&&&
+
+000:43026
+030:a
+040:2020
+050:e
+100:Political versus apolitical epistemologies in knowledge organization
+200:Hjoerland, B.
+700:Knowledge organization. 47(2020) no.6, S.461-485
+870:Section 1 raises the issue of this article: whether knowledge organization systems (KOS) and knowledge organization processes (KOP) are neutral or political by nature and whether it is a fruitful ideal that they should be neutral. These questions are embedded in the broader issue of scientific and scholarly research methods and their philosophical assumptions: what kinds of methods and what epistemological assumptions lie behind the construction of KOS (and research in general)? Section 2 presents and discusses basic approaches and epistemologies and their status in relation to neutrality. Section 3 offers a specific example from feminist scholarship in order to clearly demonstrate that methodologies that often claim to be or are considered apolitical represent subjectivity disguised as objectivity. It contains four subsections: 3.1 Feminist views on History, 3.2 Psychology, 3.3 Knowledge Organization, and 3.4. Epistemology. Overall, feminist scholarship has argued that methodologies, claiming neutrality but supporting repression of groups of people should be termed epistemological violence and they are opposed to social, critical, and pragmatic epistemologies that reflect the interaction between science and the greater society. Section 4 discusses the relation between the researchers' (and indexers') political attitudes and their paradigms/indexing. Section 5 considers the contested nature of epistemological labels, and Section 6 concludes that the question of whose interest a specific KOS, algorithm, or information system is serving should always be at the forefront in information studies and knowledge organization (KO).
+875:Part of a special issue: The politics of knowledge organization, Part 2; guest editors: Robert D. Montoya and Gregory H. Leazer. DOI:10.5771/0943-7444-2020-6-461.
+9ZC:2. 9.2014 19:19:40
+9ZE:31.10.2020 18:53:17
+&&&
+
+000:12988
+030:a
+040:1996
+050:d
+100:Zukunftsvisionen für Hochschulbibliotheken : Internet-basiertes Informationssystem
+21E:Arbeitsgemeinschaft der Hochschulbibliotheken NRW / Arbeitsgruppe 'PC-gestützte Dienste' AG-INTER.DOC - 29.09.1995
+510:Internet
+540:IBIS
+700:ProLibris. 1(1996) H.2, S.34-39
+870:"Die Hochschulbibliotheken des Landes Nordrhein-Westfalen legen hiermit das Konzept einer gemeinsamen arbeitsteiligen und internet-basierten Dienstleistung für die Versorgung der Hochschulen mit elektronischen Publikationen vor. Dieses Konzept wurde in der Sitzung der Arbeitsgemeinschaft der Hochschulbibliotheken am 27.10.1995 abschließend beraten und verabschiedet. Die Hochschulbibliotheken sind sich dabei der Notwendigkeit bewußt, solche Konzepte nicht nur auf Landesebene, sondern auf nationales und möglicherweise später auch auf europäischer Ebene kooperativ zu betreiben" (K. Barckow)
+9ZC:9. 7.1996 10:36:12
+&&&
+
+000:24665
+030:a
+040:2000
+050:d
+100:Ausbildung zum Gebrauch didaktischer Ontologien
+200:Swertz, C.
+411:Fortschritte in der Wissensorganisation; Bd.6
+700:Globalisierung und Wissensorganisation: Neue Aspekte für Wissen, Wissenschaft und Informationssysteme: Proceedings der 6. Tagung der Deutschen Sektion der Internationalen Gesellschaft für Wissensorganisation Hamburg, 23.-25.9.1999. Hrsg.: H.P. Ohly, G. Rahmstorf u. A. Sigel
+810:S.431-441
+860:Würzburg : Ergon Verlag
+870:Das Verhältnis des Menschen zur objektiven, subjektiven und sozialen Welt ist abhängig von den Mitteln, die für die Zugänge zu den Welten verwendet werden. Im BMBF-Leitprojekt 'L3' wird nun eine Autorinnen- und Autorenumgebung entwickelt, mit der Lehrende Wissen als dekontextualisierte Wissensmodule formulieren und nach didaktischen Ontologien spezifizieren. Während sich die Navigation für Lernende intuitiv erschließt, stellt die Erstellung von Wissensmodulen mit der L3-Umgebung für die Lehrenden eine doppelte Herausforderung dar. Zum einen muß das Wissen in eine topologische Struktur gebracht werden, zum anderen muß das Wissen explizit nach didaktischen Kriterien spezifiziert werden. Aus der doppelten Herausforderung resultiert ein doppeltes Ausbildungsproblem. Die nach wie vor bestehende Dominanz des Buchdrucks führt dazu, daß Wissen intuitiv in linearer Form organisiert wird. Es ist daher notwendig, die individuelle Präferenz für die lineare Wissensanordnung in der Ausbildung zum Gebrauch didaktischer Ontologien explizit zu machen und andere Formen der Wissensanordnung zu vermitteln. Neben der linearen Anordnung bereiten Lehrende Wissen bisher meist für ein bestimmtes didaktisches Modell auf Mit der Verfügbarkeit didaktischer Ontologien wird es möglich, Wissen so organisieren, daß es in mehreren didaktischen Modellen verwendet werden kann. Das macht differenzierte Kenntnisse und Handlungskompetenzen im Umgang mit didaktischen Modellen erforderlich. Angesichts der Komplexität der Lernziele ist es in der Ausbildung zum Gebrauch didaktischer Ontologien erforderlich, nicht nur mit mehreren didaktischen Modellen zu arbeiten, sondern das zu erwerbende Wissen in einer topologischen Struktur zu präsentieren und den handelnden Umgang mit Wissen zu trainieren
+9ZE:10.10.2001 11:26:55
+&&&
+
+000:24470
+030:a
+040:1998
+050:e
+100:Combining the evidence of different relevance feedback methods for information retrieval
+200:Lee, J.H.
+510:Retrievalalgorithmen
+700:Information processing and management. 34(1998) no.6, S.681-691
+9ZC:31. 1.1997 20:05:41
+9ZE:11. 8.2001 17:28:42
+&&&
+
+000:30463
+030:a
+040:2002
+050:e
+100:Catalog training for people who are not catalogers : the Colorado Digitization Project experience
+200:Kriegsman, S.
+510:Formalerschließung|Computer Based Training
+530:Elektronische Dokumente
+700:Cataloging and classification quarterly. 34(2002) no.3, S.367-374
+870:The Colorado Digitization Project is a cooperative endeavor designed to enable creation of a virtual library of unique resources and historical collections in Colorado through assisting all types of Cultural Heritage Institutions in the State to scan and make available on the Internet images of materials and artifacts within their collections. An important component of the project is educational, and includes teaching staff in all types of institutions about access, cataloging and metadata.
+875:Vgl. auch: http://catalogingandclassificationquarterly.com/
+880:Beitrag eines Themenheftes: Education for cataloging and the organization of information: pitfalls and the pendulum; Part II
+9ZC:5. 6.2001 12:25:05
+9ZE:29. 7.2006 18:12:29
+&&&
+
+000:12283
+030:a
+040:1995
+050:e
+100:Neural fuzzy networks reasoning with uncertainty : what can knowledge- and information retrieval engineers learn from brain research?
+200:Quast, D.
+700:Svensk biblioteks forskning. 1995, no.1, S.27-34
+870:Describes the theoretical constructs of neural networks and fuzzy logic which have traditionally been treated as 2 distinctly different technologies. However, when neural networks are combined with the mathematical logic of fuzzy set theory new structures and ideas of architectures of knowledge and information retrieval systems can be explored. Concludes that new software and/or hardware for knowledge systems can be developed by using neural networks to define the rules and then using fuzzy logic to run the rules. Combining aspects of fuzzy inference with the flexibility and trainability of artificial neural networks makes it possible to form networks that embed prior knowledge and yet can be trained for more optimal behaviour or to adapt to the changing environment
+9ZC:4. 2.1996 21:08:46
+&&&
+
+000:42604
+030:a
+040:2019
+050:d
+100:Wie viel Terminologiearbeit steckt in der Übersetzung der Dewey-Dezimalklassifikation?
+200:Mengel, T.
+411:Kommunikation und Medienmanagement - Springer eBooks. Computer Science and Engineering
+510:Computerlinguistik
+540:DDC Deutsch
+700:Terminologie : Epochen - Schwerpunkte - Umsetzungen. Zum 25-jährigen Bestehen des Rats für Deutschsprachige Terminologie. Hrsg.: P. Drewer, u. D. Pulitano
+810:S.193-210
+860:Berlin : Springer Vieweg
+870:Bibliotheken weltweit setzen die Dewey-Dezimalklassifikation (DDC) als Aufstellungssystematik und/oder zur Katalogsuche ein. Es existieren Übersetzungen der DDC in über 30 Sprachen. Als ein umfassendes System zur Ordnung von Wissen bestehend aus numerischen Notationen und sprachlichen Klasseninhalten bietet die DDC dem Terminologen bzw. der Terminologin ein weites Arbeits- und Forschungsfeld. Aber wie spielen Terminologiearbeit und Übersetzung zusammen, wenn, wie in diesem Fall, die Terminologie selbst das Übersetzungsobjekt ist? Der Aufsatz kann nicht alle Themen erschöpfend behandeln, aber er präsentiert Merkmale der DDC erstmals aus der Perspektive der DDC-Übersetzungsarbeit, und er wirft die Frage auf, ob dem Aspekt der Terminologiearbeit in der DDC-Übersetzung bislang tatsächlich genügend Aufmerksamkeit geschenkt wurde.
+880:Vgl.: https://www.springer.com/de/book/9783662589489.
+9ZC:26.12.2019 11:33:50
+9ZE:26.12.2019 12:00:02
+&&&
+
+000:35606
+030:a
+040:2009
+050:e
+100:Describing engineering documents with faceted approaches : observations and reflections
+200:Wild, P.J.|Giess, M.D.|McMahon, C.A.
+520:Ingenieurwissenschaften
+700:Journal of documentation. 65(2009) no.3, S.420-445
+870:Purpose - The purpose of this paper is to highlight the difficulty of applying faceted classification outside of library contexts and also to indicate that faceted approaches are poorly expressed to non-experts. Design/methodology/approach - The faceted approach is being applied outside of its "home" community, with mixed results. The approach is based in part on examination of a broad base of literature and in part on results and reflections on a case study applying faceted notions to "real world" engineering documentation. Findings - The paper comes across a number of pragmatic and theoretical issues namely: differing interpretations of the facet notion; confusion between faceted analysis and faceted classification; lack of methodological guidance; the use of simplistic domains as exemplars; description verses analysis; facet recognition is unproblematic; and is the process purely top-down or bottom-up. Research limitations/implications - That facet analysis is not inherently associated with a particular epistemology; that greater guidance about the derivation is needed, that greater realism is needed when teaching faceted approaches. Practical implications - Experiences of applying faceted classifications are presented that can be drawn upon to guide future work in the area. Originality/value - No previous work has reflected on the actual empirical experience used to create a faceted description, especially with reference to engineering documents.
+9ZC:10. 3.1997 20:31:13
+9ZE:17. 5.2009 18:56:51
+&&&
+
+000:37057
+030:a
+040:2012
+050:e
+100:Strategic knowledge maps of the techno-scientific network (SK maps)
+200:Pino-Díaz, J.|Jiménez-Contreras, E.|Ruíz-Baños, R.|Bailón-Moreno, R.
+700:Journal of the American Society for Information Science and Technology. 63(2012) no.4, S.796-804
+870:Knowledge engineering and information mapping are two recent scientific disciplines in constant development where mathematics, linguistics, computer science, and information visualization converge. Their main focus is to discover and display new knowledge in large document databases. They have broad and innovative fields of application for strategic scouting in science and technology, knowledge management, business intelligence, and scientific and technological evaluation. This article presents a new method for mapping the strategic research network and illustrates its application to the strategic analysis of the knowledge domain "Spanish Research in Protected Areas for the Period 1981-2005." This strategic knowledge is displayed through a set of two-dimensional cartographic maps and three-dimensional images of two networks: the international network WoS_KWAJ (1981-2005) and the national network IEDCYT_KWAJ (1981-2005). These maps can be very useful in decision-making processes for science and technology policy.
+9ZC:17. 2.1997 18:25:04
+9ZE:6. 4.2012 18:09:05
+&&&
+
+000:14773
+030:a
+040:1990
+050:e
+100:Response to 'Can I find it on PAIS'?
+200:Preschel, B.M.
+540:PAIS
+700:Database. 13(1990) H.6, S.43-44
+870:PAIS's response to the article: 'Can I find it on PAIS'(see Database 13 (6) Dec. 90, 37-42), which compared the differences in searching the DIALOG and CD-ROM versions of the data base. One source of the discrepencies in the number of data records retrieval is rooted in the fact that the CD-ROM is, effectively, reloaded at each updating and so contains all organic changes to the file, whereas the DIALOG file is reloaded less frequently. In 1991 all files will be congruent as far as subject headings are concerned. Presents their criticisms of the paper
+&&&
+
+000:26547
+030:a
+040:2003
+050:d
+100:¬Ein Kessel Buntes 2002
+200:Wolf, S.
+510:Regeln für den Schlagwortkatalog (RSWK)
+540:RSWK|SWD|RVK|SWB
+550:D|Baden-Württemberg
+700:Sacherschließung im SWB
+810:S.103-109
+860:Konstanz : Bibliotheksservice-Zentrum Baden-Württemberg
+870:Die Behauptung steht im Raum, wir könnten alles in Baden-Württemberg - natürlich außer Hochdeutsch. Dann gehört bibliothekarische Sacherschließung sicher zu unseren Kompetenzfeldern. Um die Richtigkeit der Annahme zu belegen, sei im Folgenden ausgeführt, was im Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) und auf der Verbunddatenbank des Südwestdeutschen Bibliotheksverbundes (SWB) im Lauf des Jahres 2002 geschehen ist oder gerade realisiert wird. Vorgestellt werden einzelne Projekte, die zunächst scheinbar unverbunden sind. Wenn sich am Ende herausstellt, dass Sacherschließung im Verbund bedeutet, unter Optimierung von Werkzeugen und Geschäftsgängen die Erschließungsdichte und -tiefe zu verbessern, gleichzeitig aber verschiedene Systeme zu nutzen, so wird erkennbar, dass bibliothekarische Sacherschließung nicht ein einziges monolithisches Arbeitsfeld mit der Geschlossenheit der Formalerschließung darstellt. Vielmehr werden, um den vorhandenen Daten und den Bedürfnissen der Nutzerschaft in Recherche und Auskunft gerecht zu werden, verschiedene Datenquellen angeboten, wo möglich verbunden und genutzt werden müssen. Im Verbund wird - um die Ausgangsthese aufzugreifen - nicht nur hochdeutsch gesprochen, sondern eben z.B. auch "altdeutsch" mit den Museen und Archiven, "bayerisch" mit der Regensburger Verbundklassifikation oder amerikanisch mit der Dewey Decimal Classification.
+9ZC:27. 4.2003 19:34:31
+9ZE:28. 4.2003 13:30:59
+&&&
+
+000:26413
+030:a
+040:2002
+050:e
+100:¬The complementarity of natural and index language in the field of information supply : an overview of their specific capabilities and limitations
+200:Fugmann, R.
+510:Theorie verbaler Dokumentationssprachen
+700:Knowledge organization. 29(2002) nos.3/4, S.217-230
+870:Natural text phrasing is an indeterminate process and, thus, inherently lacks representational predictability. This holds true in particular in the Gase of general concepts and of their syntactical connectivity. Hence, natural language query phrasing and searching is an unending adventure of trial and error and, in most Gases, has an unsatisfactory outcome with respect to the recall and precision ratlos of the responses. Human indexing is based an knowledgeable document interpretation and aims - among other things - at introducing predictability into the representation of documents. Due to the indeterminacy of natural language text phrasing and image construction, any adequate indexing is also indeterminate in nature and therefore inherently defies any satisfactory algorithmization. But human indexing suffers from a different Set of deficiencies which are absent in the processing of non-interpreted natural language. An optimally effective information System combines both types of language in such a manner that their specific strengths are preserved and their weaknesses are avoided. lf the goal is a large and enduring information system for more than merely known-item searches, the expenditure for an advanced index language and its knowledgeable and careful employment is unavoidable.
+880:Vgl. dazu auch den Nachtrag den Verfassers unter 'Letter and errata' in KO 30(2003) no.1, S.38-39
+9ZC:6. 1.1997 18:30:28
+9ZE:23.12.2006 18:35:46
+&&&
+
+000:24533
+030:a
+040:2001
+050:e
+100:¬A conceptual framework and empirical research for classifying visual descriptors
+200:Jörgensen, C.|Jaimes, A.|Benitez, A.B.|Chang, S.-F.
+530:Bilder
+700:Journal of the American Society for Information Science and technology. 52(2001) no.11, S.938-947
+870:This article presents exploratory research evaluating a conceptual structure for the description of visual content of images. The structure, which was developed from empirical research in several fields (e.g., Computer Science, Psychology, Information Studies, etc.), classifies visual attributes into a "Pyramid" containing four syntactic levels (type/technique, global distribution, local structure, composition), and six semantic levels (generic, specific, and abstract levels of both object and scene, respectively). Various experiments are presented, which address the Pyramid's ability to achieve several tasks: (1) classification of terms describing image attributes generated in a formal and an informal description task, (2) classification of terms that result from a structured approach to indexing, and (3) guidance in the indexing process. Several descriptions, generated by naive users and indexers, are used in experiments that include two image collections: a random Web sample, and a set of news images. To test descriptions generated in a structured setting, an Image Indexing Template (developed independently over several years of this project by one of the authors) was also used. The experiments performed suggest that the Pyramid is conceptually robust (i.e., can accommodate a full range of attributes), and that it can be used to organize visual content for retrieval, to guide the indexing process, and to classify descriptions obtained manually and automatically
+9ZC:17. 2.1997 18:25:04
+9ZE:29. 9.2001 18:46:24
+&&&
+
+000:31885
+030:a
+040:2000
+050:e
+100:Automated thesaurus for enhanced Chinese text retrieval
+200:Foo, S.|Hui, S.C.|Lim, H.K.|Hui, L.
+700:Library review. 49(2000) no.5, S.230-239
+870:Asian languages such as Japanese, Korean and in particular Chinese, are beginning to gain popularity in the information retrieval (IR) domain. The quality of IR systems has traditionally been judged by the system's retrieval effectiveness which, in turn, is commonly measured by data recall and data precision. This paper proposes and describes a process for generating an automatic Chinese thesaurus that can be used to provide related terms to a user's queries to enhance retrieval effectiveness. In the absence of existing automatic Chinese thesauri, techniques used in English thesaurus generation have been evaluated and adapted to generate a Chinese equivalent. The automatic thesaurus is generated by computing the co-occurrence values between domain-specific terms found in a document collection. These co-occurrence values are in turn derived from the term and document frequencies of the terms. A set of experiments was subsequently carried out on a document test set to evaluate the applicability of the thesaurus. Results obtained from these experiments confirmed that such an automatic generated thesaurus is able to improve the retrieval effectiveness of a Chinese IR system.
+880:Auch in: Library computing 19(2000) nos.3/4, S.270-280
+9ZC:11. 2.1997 20:00:30
+9ZE:23. 1.2007 11:24:28
+&&&
