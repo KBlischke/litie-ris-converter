@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestUnifier" time="0.122" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestUnifier" time="0.064" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.9.9-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Kevin Blischke\AppData\Local\Temp\surefire2023306467137751978\surefirebooter-20240416103914494_3.jar C:\Users\Kevin Blischke\AppData\Local\Temp\surefire2023306467137751978 2024-04-16T10-39-13_977-jvmRun1 surefire-20240416103914494_1tmp surefire_0-20240416103914494_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Kevin Blischke\AppData\Local\Temp\surefire7670482518314363312\surefirebooter-20240416105212101_3.jar C:\Users\Kevin Blischke\AppData\Local\Temp\surefire7670482518314363312 2024-04-16T10-52-10_888-jvmRun1 surefire-20240416105212101_1tmp surefire_0-20240416105212101_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Kevin Blischke\OneDrive\Desktop\IT\Projects\litie-ris-converter\converter\target\test-classes;C:\Users\Kevin Blischke\OneDrive\Desktop\IT\Projects\litie-ris-converter\converter\target\classes;C:\Users\Kevin Blischke\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Kevin Blischke\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Kevin Blischke\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Kevin Blischke\AppData\Local\Temp\surefire2023306467137751978\surefirebooter-20240416103914494_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Kevin Blischke\AppData\Local\Temp\surefire7670482518314363312\surefirebooter-20240416105212101_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+9"/>
@@ -59,11 +59,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testUnifyPipeDelimiter" classname="TestUnifier" time="0.0"/>
-  <testcase name="testUnify030" classname="TestUnifier" time="0.018"/>
+  <testcase name="testUnifyPipeDelimiter" classname="TestUnifier" time="0.019"/>
+  <testcase name="testUnify030" classname="TestUnifier" time="0.0"/>
   <testcase name="testUnify100" classname="TestUnifier" time="0.0"/>
-  <testcase name="testUnify21E" classname="TestUnifier" time="0.021"/>
-  <testcase name="testUnify411" classname="TestUnifier" time="0.018"/>
-  <testcase name="testUnify700" classname="TestUnifier" time="0.017"/>
-  <testcase name="testUnifyAll" classname="TestUnifier" time="0.006"/>
+  <testcase name="testUnify21E" classname="TestUnifier" time="0.002"/>
+  <testcase name="testUnify411" classname="TestUnifier" time="0.003"/>
+  <testcase name="testUnify700" classname="TestUnifier" time="0.0"/>
+  <testcase name="testUnifyAll" classname="TestUnifier" time="0.0"/>
 </testsuite>
