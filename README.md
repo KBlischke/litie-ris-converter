@@ -1,5 +1,7 @@
 # Konvertierung der Datenbank "Literatur zur Informationserschließung"
 
+Die Bachelorarbeit, dem dieses Programm zugrunde liegt kann unter folgender URN abgerufen werden: urn:nbn:de:hbz:79pbc-opus-24927.
+
 Das Programm wurde für diese Arbeit in der Programmiersprache Java implementiert und als Maven-Projekt verwaltet. Die Struktur und Funktionsweise des Projekts entsprechen der Beschreibung im letzten Kapitel. Dieser Ansatz ermöglicht eine effiziente Verwaltung der Abhängigkeiten und eine standardisierte Projektstruktur, was zur einfacheren Entwicklung, Wartung und Skalierbarkeit beiträgt. Die Verwendung von Maven erleichtert auch die Integration von Bibliotheken und externen Ressourcen, was die Entwicklung des Programms erleichtert und die Arbeitsabläufe optimiert. 
 Der Source-Code des Programms ist in den beigefügten Anlagen unter dem Dateipfad "converter/src/main/java" zu finden. Um das Programm zu verwenden, wird eine Java-Laufzeitumgebung der Version 17 oder höher benötigt.  Das Programm trägt den Namen "converter-1.0.0.jar" und befindet sich im Dateipfad "converter/target". Es ist jedoch möglich, die Platzierung des Programms nach Belieben zu ändern.
 
