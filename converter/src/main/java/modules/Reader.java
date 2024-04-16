@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 /**
- * The <code>Reader</code> class is responsible for reading and processing content
+ * The {@code Reader} class is responsible for reading and processing content
  * from a DBM file in Allegro format.
  * It implements the Iterator interface to iterate through sections delimited by specific markers.
  */
