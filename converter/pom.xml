@@ -8,9 +8,9 @@
     <artifactId>converter</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>liric</name>
+    <name>litie-ris-converter</name>
     <description>
-        Konverter für bibliographische Referenzdateien im Allegro-Austauschformat zum RIS-Format
+        Konverter für bibliographische Referenzdateien im Allegro-Neutralformat der Litie-Datenbank zum RIS-Format
     </description>
 
     <properties>
